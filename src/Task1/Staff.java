@@ -9,6 +9,7 @@ public class Staff extends Person {
         super(name, address);
         this.school = school;
         this.pay = pay;
+
     }
 
     public String getSchool() {
